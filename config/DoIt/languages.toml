@@ -1,9 +1,9 @@
 [en]
   weight = 1
   # language code
-  languageCode = "zh-ch"
+  languageCode = "en"
   # language name
-  languageName = "Chinese"
+  languageName = "English"
   # whether to include Chinese/Japanese/Korean
   hasCJKLanguage = false
   # default amount of posts in each pages
