@@ -1,0 +1,4 @@
+baseURL = "https://blog.tangguo.life/"
+languageCode = "zh-ch"
+title = "糖果生活"
+theme = "DoIt"
